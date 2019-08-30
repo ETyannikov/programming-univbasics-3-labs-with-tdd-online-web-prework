@@ -1,3 +1,3 @@
 # Add your variables here
-first_number
-second_number
+int first_number
+int second_number
