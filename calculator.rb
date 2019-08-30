@@ -1,3 +1,4 @@
 # Add your variables here
-int first_number
-int second_number
+first_number = 5
+second_number = 5
+sum = first_number + second_number
